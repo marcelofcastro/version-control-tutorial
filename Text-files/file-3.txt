@@ -16,3 +16,4 @@ This is a list of everyone that completed the workshop:
 - Fernando Fachini
 - Rin Donovan
 - Bowen Tang
+- Xander Laney
