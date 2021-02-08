@@ -12,3 +12,4 @@ This is a list of everyone that completed the workshop:
 - Shunyao Xu
 - Nathan Mascari
 - Fernando Fachini
+- Rin Donovan
