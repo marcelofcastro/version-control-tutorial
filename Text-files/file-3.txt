@@ -1,7 +1,8 @@
 This is a list of everyone that completed the workshop:
 - Marcelo
-- Luigi, illustrating again, editing again to illustrate fetch
+- Luigi, illustrating again, editing again to illustrate fetch, editing again for my MnS4CPS s'21 course demo (fixed)
 - Larissa Breuning (course 2021)
 - Ruihao(Ray) Song
 - Sebastian
 - Bernd
+- Kunj
