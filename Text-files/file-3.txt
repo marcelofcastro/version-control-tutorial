@@ -1,8 +1,21 @@
 This is a list of everyone that completed the workshop:
-- Marcelo
-- Luigi, illustrating again, editing again to illustrate fetch, editing again for my MnS4CPS s'21 course demo (fixed)
-- Larissa Breuning (course 2021)
-- Ruihao(Ray) Song
-- Sebastian
-- Kunj
-- Boris Baklitskiy
+0- Marcelo
+1- Luigi, illustrating again, editing again to illustrate fetch, editing again for my MnS4CPS s'21 course demo (fixed)
+*** Student's from 2020/2021 TUM Course
+2- Larissa Breuning (course 2021)
+3- Ruihao(Ray) Song
+4- Sebastian
+5- Bernd
+6- Ann-Kathrin 
+*** Student's from 2021 MnS4CPS S'21 Course
+7- Kunj
+8- Hao(Jerry) Zhang
+9- Jae Hoon (James) Choi
+10- Shunyao Xu
+11- Nathan Mascari
+12- Fernando Fachini
+13- Rin Donovan
+14- Bowen Tang
+15- Xander Laney
+16- Haibin Guo
+17- Boris Baklitskiy
