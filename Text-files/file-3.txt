@@ -22,5 +22,6 @@ This is a list of everyone that completed the workshop:
 18- Hayleigh Sanders
 19- Hari Channagiri
 20- Misha Shiltsev
+21- Luechen Wang
 *** Other's being trained before the next Modelica course!
 21- G. B.
