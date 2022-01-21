@@ -43,3 +43,4 @@ This is a list of everyone that completed the workshop:
 37- Max Toner
 38- Wenhao Shen
 39- Kyle Warns
+40- Hao Chang
