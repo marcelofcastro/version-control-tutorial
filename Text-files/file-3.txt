@@ -1,5 +1,5 @@
 This is a list of everyone that completed the workshop:
-0- Shamim
+0- Marcelo
 1- Luigi, illustrating again, editing again to illustrate fetch, editing again for my MnS4CPS s'21 course demo (fixed)
 *** Student's from 2020/2021 TUM Course
 2- Larissa Breuning (course 2021)
@@ -24,4 +24,17 @@ This is a list of everyone that completed the workshop:
 20- Misha Shiltsev
 *** Other's being trained before the next Modelica course!
 21- G. B.
-22- Cole Belog
+22- Shamim
+23 - Davis Piercy
+24- Miguel Aguilera
+*** Student's from 2022 MnS4CPS S'22 Course
+25- Junyung Kim
+26- Alberto Alamilla 
+27- Miguel Aguilera
+28- Leia Dziadosz
+29- Luechen Wang
+30- Jayson Mintz
+31- Sharmad Joshi
+32- Allan Nesathurai 
+33- Cheng Zhang
+34- Cole Belog
