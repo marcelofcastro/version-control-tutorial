@@ -24,9 +24,10 @@ This is a list of everyone that completed the workshop:
 20- Misha Shiltsev
 *** Other's being trained before the next Modelica course!
 21- G. B.
-*** Student's from 2022 MnS4CPS S'22 Course
 22- Shamim
 23 - Davis Piercy
 24- Miguel Aguilera
+*** Student's from 2022 MnS4CPS S'22 Course
 25- Junyung Kim
-26- Miguel Aguilera
+26- Alberto Alamilla 
+27- Miguel Aguilera
