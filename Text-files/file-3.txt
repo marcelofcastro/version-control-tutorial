@@ -24,6 +24,7 @@ This is a list of everyone that completed the workshop:
 20- Misha Shiltsev
 *** Other's being trained before the next Modelica course!
 21- G. B.
+22- Asad Ullah Amin Shah
 22- Shamim
 23 - Davis Piercy
 24- Miguel Aguilera
@@ -38,3 +39,4 @@ This is a list of everyone that completed the workshop:
 32- Allan Nesathurai 
 33- Cheng Zhang
 34- Cole Belog
+35- Asad Ullah Amin Shah
