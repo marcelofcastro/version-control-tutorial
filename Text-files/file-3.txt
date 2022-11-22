@@ -54,3 +54,4 @@ This is a list of everyone that completed the workshop:
 49- Brennan Loder
 50- Cortez Bartolome
 51- Nancy Mathew
+52- Weijie Pan
